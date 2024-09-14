@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://syopied.github.io/sitemap/sitemap.txt
